@@ -14,8 +14,8 @@
 
 ✔ # pkg install git
 
-✔ # git clone https://github.com/ALFU-SANI/BD-6-DIGIT
+✔ # git clone https://github.com/ALFU-SANI/BD-6-DIGIT.git
 
 ✔ # cd BD-6-DIGIT
 
-✔ # python2 BD-6-DIGIT.py
+✔ # python2 BD_ALFU.py
